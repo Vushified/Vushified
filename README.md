@@ -19,7 +19,7 @@ Getting there through systems first.
 
 ## What I'm building
 
-> Projects go here as I finish them.
+- [MyCat](https://github.com/Vushified/MyCat) - my own `cat` command in C. Version 1 uses the C library. Version 2 talks to the operating system directly (in progress).
 
 ---
 
